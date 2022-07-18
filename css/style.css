@@ -17,6 +17,10 @@ img {
     vertical-align: middle;
 }
 
+a{
+    color:#FFFFFF;
+    text-decoration: none;
+}
 
 h1{
     font-size: 80px;
